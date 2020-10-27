@@ -25,7 +25,11 @@
 
 ![alt text](https://github.com/Beevi-Cognitive/PythonFireBaseDataBase/blob/master/imagens/img7.png?raw=true)
 
+# Configuração Necessária no Banco de Dados
+* É necessário definir os índices dos valores, por tanto faça como a imagem.
 # Como rodar
+![alt text](https://github.com/Beevi-Cognitive/PythonFireBaseDataBase/blob/master/imagens/img8.png?raw=true)
+
 
 * Copie o código abaixo para instalação da lib necessária no notebook:
     `import sys`
